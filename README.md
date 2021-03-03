@@ -3,7 +3,7 @@ Le jeu BoulderDash mais en Python!
 
 ## Projet effectué avec Yohan ASTIER
 
-## Comment lancer une partie
+## Lancer une partie
 
 Lancer "menu.py", un menu apparaît avec différentes options :
 
